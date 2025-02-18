@@ -1,3 +1,6 @@
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=lyaxsh.github.io&label=lurkers&labelColor=%23e4b1f0&countColor=%233b1e54)](https://visitorbadge.io/status?path=lyaxsh.github.io)
+
+
 ## Get This Cool Website for yourself
 - [Create a Fork](https://github.com/LinuxGuy312/LinuxGuy312.github.io/fork)
 - Edit your name and about in [index.html](index.html)
