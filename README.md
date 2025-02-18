@@ -1,6 +1,15 @@
+<br>
+<br>
+
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=lyaxsh.github.io&label=lurkers&labelColor=%23e4b1f0&countColor=%233b1e54" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=lyaxsh.is-a.dev&label=Curious%20Eyes&labelColor=%23e4b1f0&countColor=%233b1e54" alt="Visitors" />
 </p>
+
+<br>
+<br>
+
+
+
 
 
 ## Get This Cool Website for yourself
