@@ -1,4 +1,6 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=lyaxsh.github.io&label=lurkers&labelColor=%23e4b1f0&countColor=%233b1e54)](https://visitorbadge.io/status?path=lyaxsh.github.io)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=lyaxsh.github.io&label=lurkers&labelColor=%23e4b1f0&countColor=%233b1e54" alt="Visitors" />
+</p>
 
 
 ## Get This Cool Website for yourself
