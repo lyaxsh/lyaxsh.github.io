@@ -1,8 +1,8 @@
 // Bot API Key
-const BOT_TOKEN = "5450062848:AAHpABl9HgiSizThOwwiJL6Ka7wNp9nqKp0";
+const BOT_TOKEN = "xyz";
 
 // Your Telegram USER ID
-const USERID = "5239100362";
+const USERID = "xyz";
 
 addEventListener("fetch", (event) => {
   event.respondWith(handleRequest(event.request));
@@ -19,7 +19,7 @@ async function handleRequest(request) {
     });
   } else if (new URL(request.url).pathname == "/" && !request.body) {
     return Response.redirect(
-      "https://LinuxGuy312.github.io",
+      "https://lyaxsh.github.io",
       301
     );
   } else {
@@ -42,7 +42,7 @@ async function handleRequest(request) {
             "Content-Type": "application/json",
             "Cache-Control": "no-cache, no-store, must-revalidate",
             "Access-Control-Allow-Origin": "*",
-            "Made-By": "https://github.com/LinuxGuy312",
+            "Made-By": "https://github.com/lyaxsh",
           },
         }
       );
@@ -81,7 +81,7 @@ async function handleRequest(request) {
           "Content-Type": "application/json",
           "Cache-Control": "no-cache, no-store, must-revalidate",
           "Access-Control-Allow-Origin": "*",
-          "Made-By": "https://github.com/LinuxGuy312",
+          "Made-By": "https://github.com/lyaxsh",
         },
       });
     }
