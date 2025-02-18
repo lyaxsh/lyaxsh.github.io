@@ -24,7 +24,10 @@ function unload(){
   loader.style.opacity = 0;
 }
 
-
+// Removed the fullscreen trigger on click
+loaderText.onclick = c => { setTimeout(load, 500); }
+loaderText.ontouchend = t => { setTimeout(load, 500); }
+//loaderEnd
 
 function show() {
      hover.classList.add('active');
