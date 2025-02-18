@@ -24,8 +24,8 @@ function unload(){
   loader.style.opacity = 0;
 }
 
-loaderText.ontouchend = t => {document.documentElement.requestFullscreen(); setTimeout(load, 500);}
-loaderText.onclick = c =>{document.documentElement.requestFullscreen(); setTimeout(load, 500);}
+#loaderText.ontouchend = t => {document.documentElement.requestFullscreen(); setTimeout(load, 500);}
+#loaderText.onclick = c =>{document.documentElement.requestFullscreen(); setTimeout(load, 500);}
 //loaderEnd
 
 function show() {
