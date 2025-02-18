@@ -13,7 +13,7 @@
 
 
 ## Get This Cool Website for yourself
-- [Create a Fork](https://github.com/LinuxGuy312/LinuxGuy312.github.io/fork)
+- [Create a Fork](https://github.com/lyaxsh/lyaxsh.github.io/fork)
 - Edit your name and about in [index.html](index.html)
 - Edit the image URL in [index.html](index.html#L42) & [style.css](src/style.css#L216)
 - Enable [Pages](https://github.com/pages) from Settings
